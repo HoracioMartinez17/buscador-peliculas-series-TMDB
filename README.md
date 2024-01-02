@@ -34,7 +34,7 @@ Los usuarios pueden buscar películas por género o fecha de lanzamiento, ofreci
 - **css/:** Contiene los archivos CSS generados a partir de los estilos Sass.
 - **img/:** Almacena las imágenes utilizadas.
 - **index.html:** Página principal.
-- **src/:** Contiene los archivos JavaScript que implementan la lógica del buscador.
+- **src/:** Contiene los archivos JavaScript que implementa toda la lógica del proyecto.
 
 ## Instrucciones de Ejecución
 
